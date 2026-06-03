@@ -1,5 +1,4 @@
 # Crescendo Defense Pipeline
-### AIMS DTU Research Intern 2026 — LLM Jailbreaking and Safety
 
 A two-layer, stateful defense framework around `meta-llama/Llama-3.2-3B-Instruct` that detects and neutralizes **Crescendo-style multi-turn jailbreak attacks**.
 
@@ -123,7 +122,3 @@ See `requirements.txt` for full list.
 
 ---
 
-## Citation
-
-If you use this work, please cite:
-> Russinovich et al. (2024). *Great, now write an article about that: The crescendo multi-turn LLM jailbreak attack.* arXiv:2404.13662.
