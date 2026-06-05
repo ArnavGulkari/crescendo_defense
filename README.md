@@ -34,9 +34,7 @@ crescendo_defense/
 │   ├── run_benchmark.py            # Main entry point
 │   └── demo.py                     # Interactive chat demo
 ├── tests/
-│   └── test_guards.py              # 17 unit tests (all passing)
-└── report/
-    └── technical_report.md         # 6-page research report
+  └── test_guards.py              # 17 unit tests (all passing)
 ```
 
 ---
